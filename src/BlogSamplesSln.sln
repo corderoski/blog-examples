@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAutofacTest", "WebApiAutofacTest\WebApiAutofacTest.csproj", "{D8E6B3F8-48D6-441F-8BA1-D77BF2110C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E6B3F8-48D6-441F-8BA1-D77BF2110C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E6B3F8-48D6-441F-8BA1-D77BF2110C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E6B3F8-48D6-441F-8BA1-D77BF2110C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E6B3F8-48D6-441F-8BA1-D77BF2110C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185D0B32-C6A9-40E7-8434-338E6EC0591F}
+	EndGlobalSection
+EndGlobal
